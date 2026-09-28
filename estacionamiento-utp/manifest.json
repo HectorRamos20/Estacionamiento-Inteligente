@@ -1,0 +1,26 @@
+{
+  "name": "Estacionamiento UTP Piura",
+  "short_name": "UTP Parking",
+  "description": "App local para gestionar el estacionamiento de la UTP Piura.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101114",
+  "theme_color": "#d71920",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
